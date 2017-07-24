@@ -1,0 +1,6 @@
+DT_TELargeFunnel : public DT_TEParticleSystem, DT_BaseTempEntity
+|__m_vecOrigin[0]____________________________________ -> 0x0010 ( float )
+|__m_vecOrigin[1]____________________________________ -> 0x0014 ( float )
+|__m_vecOrigin[2]____________________________________ -> 0x0018 ( float )
+|__m_nModelIndex_____________________________________ -> 0x001C ( int )
+|__m_nReversed_______________________________________ -> 0x0020 ( int )

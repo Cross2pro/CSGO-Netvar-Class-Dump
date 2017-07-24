@@ -1,0 +1,2 @@
+DT_TEKillPlayerAttachments : public DT_BaseTempEntity
+|__m_nPlayer_________________________________________ -> 0x0010 ( int )

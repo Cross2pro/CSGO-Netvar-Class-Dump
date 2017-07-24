@@ -1,0 +1,4 @@
+DT_TEParticleSystem : public DT_BaseTempEntity
+|__m_vecOrigin[0]____________________________________ -> 0x0010 ( float )
+|__m_vecOrigin[1]____________________________________ -> 0x0014 ( float )
+|__m_vecOrigin[2]____________________________________ -> 0x0018 ( float )

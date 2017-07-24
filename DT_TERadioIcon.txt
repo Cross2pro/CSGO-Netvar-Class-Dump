@@ -1,0 +1,2 @@
+DT_TERadioIcon : public DT_BaseTempEntity
+|__m_iAttachToClient_________________________________ -> 0x0010 ( int )

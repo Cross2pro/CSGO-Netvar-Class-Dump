@@ -1,0 +1,2 @@
+DT_RagdollManager
+|__m_iCurrentMaxRagdollCount_________________________ -> 0x09D8 ( int )
