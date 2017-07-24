@@ -1,0 +1,3 @@
+DT_InfoOverlayAccessor
+|__m_iTextureFrameIndex______________________________ -> 0x0988 ( int )
+|__m_iOverlayID______________________________________ -> 0x09D8 ( int )

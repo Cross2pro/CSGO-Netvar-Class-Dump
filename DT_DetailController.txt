@@ -1,0 +1,3 @@
+DT_DetailController
+|__m_flFadeStartDist_________________________________ -> 0x09D8 ( float )
+|__m_flFadeEndDist___________________________________ -> 0x09DC ( float )
