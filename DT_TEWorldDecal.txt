@@ -1,0 +1,3 @@
+DT_TEWorldDecal : public DT_BaseTempEntity
+|__m_vecOrigin_______________________________________ -> 0x0010 ( Vec3 )
+|__m_nIndex__________________________________________ -> 0x001C ( int )
